@@ -1,1 +1,1 @@
-# project-wp-theme
+# prj-wp-theme
